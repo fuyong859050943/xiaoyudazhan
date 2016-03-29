@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\enemybite.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\enemybite.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gamebckmusic.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\gamebckmusic.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\playerbite.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\playerbite.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\gameover.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\gameover.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mouseover.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\mouseover.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\score.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\score.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\mousedown.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\mousedown.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\victory.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\victory.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\playereaten.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\playereaten.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\bubble.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\bubble.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\menumusic.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\menumusic.wav"
+    },
+    {
+        "merged": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\build\\intermediates\\res\\merged\\debug\\raw\\playergrow.wav",
+        "source": "E:\\Android\\AndroidStudioProjects\\xiaoyudazhan\\app\\src\\main\\res\\raw\\playergrow.wav"
+    }
+]
